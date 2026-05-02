@@ -45,7 +45,7 @@ Transforming community management with smart, efficient solutions.
 
 You can install InSolve directly on your Android device using the provided APK file. 
 
-1. **Download the APK:** Navigate to the [Releases](https://github.com/YourUsername/InSolve/releases) page of this repository and download the latest `InSolve.apk` file to your Android phone.
+1. **Download the APK:** Navigate to the [Releases](https://github.com/viancuhh/InSolve-Mobile/releases/tag/IncidentReport) page of this repository and download the latest `InSolve.apk` file to your Android phone.
 2. **Allow Unknown Apps:** Before installing, your phone may ask for permission to install unknown apps. Tap **Settings** on the prompt and toggle **Allow from this source**.
 3. **Install:** Tap the downloaded `InSolve.apk` file and select **Install**.
 4. **Launch:** Once the installation is complete, open the app, create an account, and start exploring!
