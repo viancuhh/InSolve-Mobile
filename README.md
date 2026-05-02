@@ -5,11 +5,12 @@ Transforming community management with smart, efficient solutions.
 **InSolve** is a real-time Android mobile application designed to bridge the gap between citizens and city administrators. It empowers residents of Taguig City to easily report neighborhood incidents (such as potholes, infrastructure damage, and hazards) while providing administrators with a powerful dashboard to track, review, and resolve issues in real-time.
 
 ---
-
 ## Key Features
 
 ### For Citizens (Users)
-* **Seamless Incident Reporting:** Submit reports with specific locations, detailed descriptions, and visual evidence (photos).
+* **One-Tap GPS Location:** Automatically pinpoint and auto-fill the exact incident address using the device's native GPS.
+* **Integrated Camera & Gallery:** Attach crucial visual evidence by snapping a live photo directly within the app or uploading an existing image from the gallery.
+* **Seamless Incident Reporting:** Submit comprehensive reports with detailed descriptions of the situation on the ground.
 * **Real-Time Status Tracking:** Instantly see when a report moves from *Pending* to *In Progress*, *Resolved*, or *Rejected*.
 * **Official Admin Remarks:** Read direct feedback and updates from city dispatchers regarding submitted reports.
 
