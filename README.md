@@ -38,7 +38,7 @@ Transforming community management with smart, efficient solutions.
 
 | Light Mode Dashboard | Dark Mode Dashboard | Report Details |
 | :---: | :---: | :---: |
-| <img src="link_to_light_dashboard_image" width="250"> | <img src="link_to_dark_dashboard_image" width="250"> | <img src="link_to_details_image" width="250"> |
+| <img src="ASSETS/lightdashboard.png" width="250"> | <img src="ASSETS/darkdashboard.png" width="250"> | <img src="ASSETS/reportdetails.png" width="250"> |
 
 ---
 
