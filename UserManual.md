@@ -1,4 +1,4 @@
-## Part 1: Citizen User Manual
+## Part 1: Citizen User Manual (WIP)
 
 This section is for residents who want to report issues in their neighborhood.
 
