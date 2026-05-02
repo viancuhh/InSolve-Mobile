@@ -30,7 +30,7 @@ Transforming community management with smart, efficient solutions.
 * **Language:** Java
 * **Platform:** Android
 * **Backend / Database:** Firebase Realtime Database
-* **Architecture:** Native Android XML Layouts, RecyclerViews, Custom Material Cards
+* **Architecture:** Native Android XML Layouts, RecyclerViews
 
 ---
 
