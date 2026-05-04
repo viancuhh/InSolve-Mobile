@@ -55,5 +55,14 @@ You can install InSolve directly on your Android device using the provided APK f
 
 ---
 
+## Contributors
+
+- **Angelavianca T. Filio** – Frontend, Backend Development, User Manual
+- **Princess Erica V. Alfelor** – Frontend Development and Testing
+- **Matthew Ailes** – Prototype, UI Design, Frontend Development, and Video Editor
+- **Lorraine Pandaraoan** – Frontend Development
+- **Brix Bagsik** – Frontend Development
+- **Ryza Maureen Garcia** – Frontend Development
+
 ## 📝 License
 This project is licensed under the [MIT License](LICENSE).
